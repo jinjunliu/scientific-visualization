@@ -1,0 +1,4 @@
+# netcdf file
+*.nc
+# jupyter notebook
+.ipynb_checkpoints
